@@ -1,0 +1,1 @@
+KNN model with a plot that shows the distribution of points and classification boundaries
